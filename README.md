@@ -3,6 +3,8 @@ Javalla tehty peli, jossa pelaajan ohjaama mönkijä (M) liikkuu sokkelossa ker�
 
 Tavoitteena on kerätä kaikki esineet ja tuhota robotit.
 
+Ajoluokka Oope2016HT.java
+
 Komennot:
 
 lataa (alustaa uuden sokkelon)
