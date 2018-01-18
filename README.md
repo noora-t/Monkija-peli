@@ -14,3 +14,4 @@ Javalla tehty peli, jossa pelaajan ohjaama mönkijä (M) liikkuu sokkelossa ker�
 * katso + i/l/p/e (esim. katso e. Näyttää kyseisessä ilmansuunnassa olevan käytäväpaikan ja mahdollisten robottien tai esineiden tiedot)
 * odota (robotit liikkuvat, mutta mönkijä ei)
 
+![monkija1](https://user-images.githubusercontent.com/26521643/35118434-6943cf12-fc9a-11e7-90e0-d802f19e08ed.png)
