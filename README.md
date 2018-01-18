@@ -1,10 +1,10 @@
 # Monkija-peli
 Javalla tehty peli, jossa pelaajan ohjaama mönkijä (M) liikkuu sokkelossa keräten esineitä (E) ja taistellen robotteja vastaan (R).
-###Ajo
+### Ajo
 Ajoluokka Oope2016HT.java
-##Pelaaminen
+## Pelaaminen
 Tavoitteena on kerätä kaikki esineet ja tuhota robotit.
-###Komennot:
+### Komennot:
 * lataa (alustaa uuden sokkelon)
 * kartta (näyttää sokkelon)
 * tallenna (tallentaa sokkelon tiedot eli pelin tilanteen tekstitiedostoon)
