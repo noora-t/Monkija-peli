@@ -1,8 +1,8 @@
 # Mönkijä-peli
 Javalla tehty peli, jossa pelaajan ohjaama mönkijä (M) liikkuu sokkelossa keräten esineitä (E) ja taistellen robotteja vastaan (R).
 ## Pelaaminen
-Ajoluokka Oope2016HT.java
-Tavoitteena on kerätä kaikki esineet ja tuhota robotit.
+* Ajoluokka Oope2016HT.java
+* Tavoitteena on kerätä kaikki esineet ja tuhota robotit.
 ### Komennot:
 * lataa (alustaa uuden sokkelon)
 * kartta (näyttää sokkelon)
